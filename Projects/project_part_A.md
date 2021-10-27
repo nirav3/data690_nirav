@@ -1,10 +1,10 @@
 # Does higher urban population result in higher GDP?
 
 ## Who Am I?
-    My name is Nirav Pancholi. I am a Data Science student at UMBC. I also work fulltime as a software developer at UPS. I am passionate about learning from Data and doing problem solving using that data. 
+> My name is Nirav Pancholi. I am a Data Science student at UMBC. I also work fulltime as a software developer at UPS. I am passionate about learning from Data and doing problem solving using that data. 
     
 ## Thesis
-    In this analysis today, we are going to see if higher number of urban population result in higher GDP. Many western countries have believed so. I also believe that urbanization brings more opportunities to public, and hence resulting in higher GDP.
+> In this analysis today, we are going to see if higher number of urban population result in higher GDP. Many western countries have believed so. I also believe that urbanization brings more opportunities to public, and hence resulting in higher GDP.
   
 ## Understanding the data
 
@@ -40,4 +40,4 @@ First, we are going to look at the data that we are using for this analysis. Dat
 - From the OLS Regression, we can see correlation between both variables. [R-squared](https://www.investopedia.com/terms/r/r-squared.asp) shows how much related these two variables are. Almost 40% of the data points from Urban population have straight effect on GDP.
 
 ## Conclusions:
-    We can conclude that urban population plays major role in a country's GDP. We can also see that; it only plays significant role when Urban population goes above 50%. That means, if a country wants to increase its GDP, then they should focus on getting more than half of the population Urbanized. 
+> We can conclude that urban population plays major role in a country's GDP. We can also see that; it only plays significant role when Urban population goes above 50%. That means, if a country wants to increase its GDP, then they should focus on getting more than half of the population Urbanized. 
