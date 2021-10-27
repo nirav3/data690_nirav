@@ -12,13 +12,13 @@ First, we are going to look at the data that we are using for this analysis. Dat
 
 1. **GDP per capita**: 
 
-![](GDP-geomap.png)
+![](images/GDP-geomap.png)
  - Clusters are based on similarities in GDP between them. Ranking from lower GDP to higher GDP respectively 2, 0, 3, 1.
  - We can see, most of the western countries have higher GDP and most of the African and South Asian countries have lower GDP.
 
 2. **Urban Population** (% of total population):
 
-![](Urban-geomap.png)
+![](images/Urban-geomap.png)
  - Ranking from lower Urban population to higher urban population respectively 2, 0, 3, 1.
  - Like GDP, we can see that most of the western countries have higher urban population. 
  - Russia is one of the exceptions, it could be because it has larger land area and most of the area has extremely cold weather. Hence, not many people live in those areas. So, most of the people live in urban areas.
@@ -28,13 +28,13 @@ First, we are going to look at the data that we are using for this analysis. Dat
 
 1. **Scatter Plot**:
 
-![](urban-scatter.png) 
+![](images/urban-scatter.png) 
 
 - From this scatter plot, we can see a pattern and some kind of reverse exponential curve. This helps us understand that as urban population grows, after some point, it directly affects the GDP. From the scatter plot, the breaking point seems to be around 50%. Meaning once a country reaches 50% urban population its GDP is expected to grow.
 
 2. **Correlation between Urban population and GDP:**
 
-![](Urban.png)
+![](images/Urban.png)
 > R-squared:                       0.392
 
 - From the OLS Regression, we can see correlation between both variables. [R-squared](https://www.investopedia.com/terms/r/r-squared.asp) shows how much related these two variables are. Almost 40% of the data points from Urban population have straight effect on GDP.
