@@ -1,0 +1,608 @@
+,Year,value,indicator,Country Code,Country Name,Region,Income Group,Lending Type
+0,2020,2087.6363940006,NY.GDP.PCAP.PP.CD,AFG,Afghanistan,South Asia,Low income,IDA
+1,2020,13817.7589656756,NY.GDP.PCAP.PP.CD,ALB,Albania,Europe & Central Asia,Upper middle income,IBRD
+2,2020,11268.2644722324,NY.GDP.PCAP.PP.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+3,2020,6538.4520538729,NY.GDP.PCAP.PP.CD,AGO,Angola,Sub-Saharan Africa ,Lower middle income,IBRD
+4,2020,18942.3880651775,NY.GDP.PCAP.PP.CD,ATG,Antigua and Barbuda,Latin America & Caribbean ,High income,IBRD
+5,2020,20767.6105001703,NY.GDP.PCAP.PP.CD,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+6,2020,13284.160830729,NY.GDP.PCAP.PP.CD,ARM,Armenia,Europe & Central Asia,Upper middle income,IBRD
+7,2020,52518.3244830382,NY.GDP.PCAP.PP.CD,AUS,Australia,East Asia & Pacific,High income,Not classified
+8,2020,55097.4612258328,NY.GDP.PCAP.PP.CD,AUT,Austria,Europe & Central Asia,High income,Not classified
+9,2020,14451.9836966507,NY.GDP.PCAP.PP.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+10,2020,32453.5295740897,NY.GDP.PCAP.PP.CD,BHS,"Bahamas, The",Latin America & Caribbean ,High income,Not classified
+11,2020,43181.2106255754,NY.GDP.PCAP.PP.CD,BHR,Bahrain,Middle East & North Africa,High income,Not classified
+12,2020,5082.6807503643,NY.GDP.PCAP.PP.CD,BGD,Bangladesh,South Asia,Lower middle income,IDA
+13,2020,13576.8017995317,NY.GDP.PCAP.PP.CD,BRB,Barbados,Latin America & Caribbean ,High income,Not classified
+14,2020,20199.6984928506,NY.GDP.PCAP.PP.CD,BLR,Belarus,Europe & Central Asia,Upper middle income,IBRD
+15,2020,51968.1920227771,NY.GDP.PCAP.PP.CD,BEL,Belgium,Europe & Central Asia,High income,Not classified
+16,2020,6455.9617526987,NY.GDP.PCAP.PP.CD,BLZ,Belize,Latin America & Caribbean ,Lower middle income,IBRD
+17,2020,3505.6351635826,NY.GDP.PCAP.PP.CD,BEN,Benin,Sub-Saharan Africa ,Lower middle income,IDA
+18,2020,11508.1741774838,NY.GDP.PCAP.PP.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+19,2020,8367.3271590664,NY.GDP.PCAP.PP.CD,BOL,Bolivia,Latin America & Caribbean ,Lower middle income,IBRD
+20,2020,15611.7913059942,NY.GDP.PCAP.PP.CD,BIH,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,IBRD
+21,2020,16920.8466745308,NY.GDP.PCAP.PP.CD,BWA,Botswana,Sub-Saharan Africa ,Upper middle income,IBRD
+22,2020,14836.3071009143,NY.GDP.PCAP.PP.CD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+23,2020,65661.6939297088,NY.GDP.PCAP.PP.CD,BRN,Brunei Darussalam,East Asia & Pacific,High income,Not classified
+24,2020,24367.3239228848,NY.GDP.PCAP.PP.CD,BGR,Bulgaria,Europe & Central Asia,Upper middle income,IBRD
+25,2020,2279.1561732033,NY.GDP.PCAP.PP.CD,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+26,2020,771.2096187616,NY.GDP.PCAP.PP.CD,BDI,Burundi,Sub-Saharan Africa ,Low income,IDA
+27,2020,6377.0258315573,NY.GDP.PCAP.PP.CD,CPV,Cabo Verde,Sub-Saharan Africa ,Lower middle income,Blend
+28,2020,4422.0457429343,NY.GDP.PCAP.PP.CD,KHM,Cambodia,East Asia & Pacific,Lower middle income,IDA
+29,2020,3772.7449855499,NY.GDP.PCAP.PP.CD,CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,Blend
+30,2020,48072.583756378,NY.GDP.PCAP.PP.CD,CAN,Canada,North America,High income,Not classified
+31,2020,979.5830660874,NY.GDP.PCAP.PP.CD,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+32,2020,1603.3784565899,NY.GDP.PCAP.PP.CD,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+33,2020,25067.6916009163,NY.GDP.PCAP.PP.CD,CHL,Chile,Latin America & Caribbean ,High income,IBRD
+34,2020,17311.9979202848,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+35,2020,14565.3680522873,NY.GDP.PCAP.PP.CD,COL,Colombia,Latin America & Caribbean ,Upper middle income,IBRD
+36,2020,3313.1704671415,NY.GDP.PCAP.PP.CD,COM,Comoros,Sub-Saharan Africa ,Lower middle income,IDA
+37,2020,1131.0906069864,NY.GDP.PCAP.PP.CD,COD,"Congo, Dem. Rep.",Sub-Saharan Africa ,Low income,IDA
+38,2020,3638.5557749751,NY.GDP.PCAP.PP.CD,COG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income,Blend
+39,2020,21031.8175436511,NY.GDP.PCAP.PP.CD,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+40,2020,5458.2366511258,NY.GDP.PCAP.PP.CD,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+41,2020,28503.8805738916,NY.GDP.PCAP.PP.CD,HRV,Croatia,Europe & Central Asia,High income,IBRD
+42,2020,38458.1912618072,NY.GDP.PCAP.PP.CD,CYP,Cyprus,Europe & Central Asia,High income,Not classified
+43,2020,41737.4180409247,NY.GDP.PCAP.PP.CD,CZE,Czech Republic,Europe & Central Asia,High income,Not classified
+44,2020,60398.4533430492,NY.GDP.PCAP.PP.CD,DNK,Denmark,Europe & Central Asia,High income,Not classified
+45,2020,5782.1106254149,NY.GDP.PCAP.PP.CD,DJI,Djibouti,Middle East & North Africa,Lower middle income,IDA
+46,2020,10434.4729370643,NY.GDP.PCAP.PP.CD,DMA,Dominica,Latin America & Caribbean ,Upper middle income,Blend
+47,2020,17936.7346849962,NY.GDP.PCAP.PP.CD,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+48,2020,10896.4274339544,NY.GDP.PCAP.PP.CD,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+49,2020,12607.7621145597,NY.GDP.PCAP.PP.CD,EGY,"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income,IBRD
+50,2020,8498.9687204029,NY.GDP.PCAP.PP.CD,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+51,2020,17941.5996995858,NY.GDP.PCAP.PP.CD,GNQ,Equatorial Guinea,Sub-Saharan Africa ,Upper middle income,IBRD
+52,2020,38394.9175345121,NY.GDP.PCAP.PP.CD,EST,Estonia,Europe & Central Asia,High income,Not classified
+53,2020,8853.6042434463,NY.GDP.PCAP.PP.CD,SWZ,Eswatini,Sub-Saharan Africa ,Lower middle income,IBRD
+54,2020,2422.9577888954,NY.GDP.PCAP.PP.CD,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+55,2020,11601.4005261348,NY.GDP.PCAP.PP.CD,FJI,Fiji,East Asia & Pacific,Upper middle income,Blend
+56,2020,51089.7853321567,NY.GDP.PCAP.PP.CD,FIN,Finland,Europe & Central Asia,High income,Not classified
+57,2020,46226.9505356869,NY.GDP.PCAP.PP.CD,FRA,France,Europe & Central Asia,High income,Not classified
+58,2020,15190.6386251211,NY.GDP.PCAP.PP.CD,GAB,Gabon,Sub-Saharan Africa ,Upper middle income,IBRD
+59,2020,2278.0278146917,NY.GDP.PCAP.PP.CD,GMB,"Gambia, The",Sub-Saharan Africa ,Low income,IDA
+60,2020,14863.0173692196,NY.GDP.PCAP.PP.CD,GEO,Georgia,Europe & Central Asia,Upper middle income,IBRD
+61,2020,53694.3547123431,NY.GDP.PCAP.PP.CD,DEU,Germany,Europe & Central Asia,High income,Not classified
+62,2020,5596.3070706446,NY.GDP.PCAP.PP.CD,GHA,Ghana,Sub-Saharan Africa ,Lower middle income,IDA
+63,2020,28463.7886828947,NY.GDP.PCAP.PP.CD,GRC,Greece,Europe & Central Asia,High income,Not classified
+64,2020,15893.2153791848,NY.GDP.PCAP.PP.CD,GRD,Grenada,Latin America & Caribbean ,Upper middle income,Blend
+65,2020,8854.2024639096,NY.GDP.PCAP.PP.CD,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+66,2020,2817.4918088079,NY.GDP.PCAP.PP.CD,GIN,Guinea,Sub-Saharan Africa ,Low income,IDA
+67,2020,1948.9195404973,NY.GDP.PCAP.PP.CD,GNB,Guinea-Bissau,Sub-Saharan Africa ,Low income,IDA
+68,2020,19705.7926684251,NY.GDP.PCAP.PP.CD,GUY,Guyana,Latin America & Caribbean ,Upper middle income,IDA
+69,2020,2925.3653238707,NY.GDP.PCAP.PP.CD,HTI,Haiti,Latin America & Caribbean ,Lower middle income,IDA
+70,2020,5420.560196329,NY.GDP.PCAP.PP.CD,HND,Honduras,Latin America & Caribbean ,Lower middle income,IDA
+71,2020,59237.6708212188,NY.GDP.PCAP.PP.CD,HKG,"Hong Kong SAR, China",East Asia & Pacific,High income,Not classified
+72,2020,33084.0962334341,NY.GDP.PCAP.PP.CD,HUN,Hungary,Europe & Central Asia,High income,Not classified
+73,2020,55216.0261783821,NY.GDP.PCAP.PP.CD,ISL,Iceland,Europe & Central Asia,High income,Not classified
+74,2020,6454.3473563818,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+75,2020,12073.461509431,NY.GDP.PCAP.PP.CD,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+76,2020,13116.0723596195,NY.GDP.PCAP.PP.CD,IRN,"Iran, Islamic Rep.",Middle East & North Africa,Lower middle income,IBRD
+77,2020,9763.5099913334,NY.GDP.PCAP.PP.CD,IRQ,Iraq,Middle East & North Africa,Upper middle income,IBRD
+78,2020,93612.1659106094,NY.GDP.PCAP.PP.CD,IRL,Ireland,Europe & Central Asia,High income,Not classified
+79,2020,41854.9341515478,NY.GDP.PCAP.PP.CD,ISR,Israel,Middle East & North Africa,High income,Not classified
+80,2020,41839.9910228994,NY.GDP.PCAP.PP.CD,ITA,Italy,Europe & Central Asia,High income,Not classified
+81,2020,9221.5933050965,NY.GDP.PCAP.PP.CD,JAM,Jamaica,Latin America & Caribbean ,Upper middle income,IBRD
+82,2020,10355.631317089,NY.GDP.PCAP.PP.CD,JOR,Jordan,Middle East & North Africa,Upper middle income,IBRD
+83,2020,26728.5439182062,NY.GDP.PCAP.PP.CD,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+84,2020,4452.2060236705,NY.GDP.PCAP.PP.CD,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+85,2020,2417.7674660576,NY.GDP.PCAP.PP.CD,KIR,Kiribati,East Asia & Pacific,Lower middle income,IDA
+86,2020,43124.2946857302,NY.GDP.PCAP.PP.CD,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+87,2020,11367.8652811621,NY.GDP.PCAP.PP.CD,XKX,Kosovo,Europe & Central Asia,Upper middle income,IDA
+88,2020,4965.0318757531,NY.GDP.PCAP.PP.CD,KGZ,Kyrgyz Republic,Europe & Central Asia,Lower middle income,IDA
+89,2020,8234.4545367667,NY.GDP.PCAP.PP.CD,LAO,Lao PDR,East Asia & Pacific,Lower middle income,IDA
+90,2020,32019.2223351007,NY.GDP.PCAP.PP.CD,LVA,Latvia,Europe & Central Asia,High income,Not classified
+91,2020,12288.7585242164,NY.GDP.PCAP.PP.CD,LBN,Lebanon,Middle East & North Africa,Upper middle income,IBRD
+92,2020,2405.0965174458,NY.GDP.PCAP.PP.CD,LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,IDA
+93,2020,1428.1892996043,NY.GDP.PCAP.PP.CD,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+94,2020,10846.9438234929,NY.GDP.PCAP.PP.CD,LBY,Libya,Middle East & North Africa,Upper middle income,IBRD
+95,2020,38734.7293153001,NY.GDP.PCAP.PP.CD,LTU,Lithuania,Europe & Central Asia,High income,Not classified
+96,2020,118359.526161843,NY.GDP.PCAP.PP.CD,LUX,Luxembourg,Europe & Central Asia,High income,Not classified
+97,2020,57807.1620352378,NY.GDP.PCAP.PP.CD,MAC,"Macao SAR, China",East Asia & Pacific,High income,Not classified
+98,2020,1593.0712660448,NY.GDP.PCAP.PP.CD,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+99,2020,1568.4247812661,NY.GDP.PCAP.PP.CD,MWI,Malawi,Sub-Saharan Africa ,Low income,IDA
+100,2020,27886.8608901388,NY.GDP.PCAP.PP.CD,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+101,2020,13765.6359819057,NY.GDP.PCAP.PP.CD,MDV,Maldives,South Asia,Upper middle income,IDA
+102,2020,2338.5075230461,NY.GDP.PCAP.PP.CD,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+103,2020,42640.1161038759,NY.GDP.PCAP.PP.CD,MLT,Malta,Middle East & North Africa,High income,Not classified
+104,2020,5256.874547408,NY.GDP.PCAP.PP.CD,MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,IDA
+105,2020,20538.6949103031,NY.GDP.PCAP.PP.CD,MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,IBRD
+106,2020,18833.0824152277,NY.GDP.PCAP.PP.CD,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+107,2020,13001.550045211,NY.GDP.PCAP.PP.CD,MDA,Moldova,Europe & Central Asia,Upper middle income,IBRD
+108,2020,12100.5866986311,NY.GDP.PCAP.PP.CD,MNG,Mongolia,East Asia & Pacific,Lower middle income,IBRD
+109,2020,20566.6384071985,NY.GDP.PCAP.PP.CD,MNE,Montenegro,Europe & Central Asia,Upper middle income,IBRD
+110,2020,7296.1580646202,NY.GDP.PCAP.PP.CD,MAR,Morocco,Middle East & North Africa,Lower middle income,IBRD
+111,2020,1296.5750349477,NY.GDP.PCAP.PP.CD,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+112,2020,4793.5568348331,NY.GDP.PCAP.PP.CD,MMR,Myanmar,East Asia & Pacific,Lower middle income,IDA
+113,2020,9382.2175367398,NY.GDP.PCAP.PP.CD,NAM,Namibia,Sub-Saharan Africa ,Upper middle income,IBRD
+114,2020,4008.7465803348,NY.GDP.PCAP.PP.CD,NPL,Nepal,South Asia,Lower middle income,IDA
+115,2020,59228.8349537605,NY.GDP.PCAP.PP.CD,NLD,Netherlands,Europe & Central Asia,High income,Not classified
+116,2020,44251.7942246991,NY.GDP.PCAP.PP.CD,NZL,New Zealand,East Asia & Pacific,High income,Not classified
+117,2020,5570.0998748493,NY.GDP.PCAP.PP.CD,NIC,Nicaragua,Latin America & Caribbean ,Lower middle income,IDA
+118,2020,1262.6041755418,NY.GDP.PCAP.PP.CD,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+119,2020,5186.7234837793,NY.GDP.PCAP.PP.CD,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend
+120,2020,16926.6241425557,NY.GDP.PCAP.PP.CD,MKD,North Macedonia,Europe & Central Asia,Upper middle income,IBRD
+121,2020,63197.9814705865,NY.GDP.PCAP.PP.CD,NOR,Norway,Europe & Central Asia,High income,Not classified
+122,2020,4876.6305536435,NY.GDP.PCAP.PP.CD,PAK,Pakistan,South Asia,Lower middle income,Blend
+123,2020,26775.6944526998,NY.GDP.PCAP.PP.CD,PAN,Panama,Latin America & Caribbean ,Upper middle income,IBRD
+124,2020,4326.4376075194,NY.GDP.PCAP.PP.CD,PNG,Papua New Guinea,East Asia & Pacific,Lower middle income,Blend
+125,2020,13012.8756954841,NY.GDP.PCAP.PP.CD,PRY,Paraguay,Latin America & Caribbean ,Upper middle income,IBRD
+126,2020,11879.2358960654,NY.GDP.PCAP.PP.CD,PER,Peru,Latin America & Caribbean ,Upper middle income,IBRD
+127,2020,8390.3531436861,NY.GDP.PCAP.PP.CD,PHL,Philippines,East Asia & Pacific,Lower middle income,IBRD
+128,2020,34264.7597598664,NY.GDP.PCAP.PP.CD,POL,Poland,Europe & Central Asia,High income,IBRD
+129,2020,34495.9224734636,NY.GDP.PCAP.PP.CD,PRT,Portugal,Europe & Central Asia,High income,Not classified
+130,2020,35279.3470349392,NY.GDP.PCAP.PP.CD,PRI,Puerto Rico,Latin America & Caribbean ,High income,Not classified
+131,2020,89948.61058023,NY.GDP.PCAP.PP.CD,QAT,Qatar,Middle East & North Africa,High income,Not classified
+132,2020,31945.7496566328,NY.GDP.PCAP.PP.CD,ROU,Romania,Europe & Central Asia,Upper middle income,IBRD
+133,2020,28213.4478382297,NY.GDP.PCAP.PP.CD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+134,2020,2213.9611897184,NY.GDP.PCAP.PP.CD,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+135,2020,4274.0990115222,NY.GDP.PCAP.PP.CD,STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,IDA
+136,2020,46762.4692706716,NY.GDP.PCAP.PP.CD,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+137,2020,3481.3099218762,NY.GDP.PCAP.PP.CD,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+138,2020,19230.6300632762,NY.GDP.PCAP.PP.CD,SRB,Serbia,Europe & Central Asia,Upper middle income,IBRD
+139,2020,25699.7290739829,NY.GDP.PCAP.PP.CD,SYC,Seychelles,Sub-Saharan Africa ,High income,IBRD
+140,2020,1738.556326941,NY.GDP.PCAP.PP.CD,SLE,Sierra Leone,Sub-Saharan Africa ,Low income,IDA
+141,2020,98525.9543531223,NY.GDP.PCAP.PP.CD,SGP,Singapore,East Asia & Pacific,High income,Not classified
+142,2020,31832.394609507,NY.GDP.PCAP.PP.CD,SVK,Slovak Republic,Europe & Central Asia,High income,Not classified
+143,2020,39593.3074407023,NY.GDP.PCAP.PP.CD,SVN,Slovenia,Europe & Central Asia,High income,Not classified
+144,2020,2619.2190071357,NY.GDP.PCAP.PP.CD,SLB,Solomon Islands,East Asia & Pacific,Lower middle income,IDA
+145,2020,875.169599243,NY.GDP.PCAP.PP.CD,SOM,Somalia,Sub-Saharan Africa ,Low income,IDA
+146,2020,12095.856289625,NY.GDP.PCAP.PP.CD,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+147,2020,38334.6113444231,NY.GDP.PCAP.PP.CD,ESP,Spain,Europe & Central Asia,High income,Not classified
+148,2020,13225.4088007871,NY.GDP.PCAP.PP.CD,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+149,2020,24536.6518405639,NY.GDP.PCAP.PP.CD,KNA,St. Kitts and Nevis,Latin America & Caribbean ,High income,IBRD
+150,2020,12943.8219371625,NY.GDP.PCAP.PP.CD,LCA,St. Lucia,Latin America & Caribbean ,Upper middle income,Blend
+151,2020,12770.149236556,NY.GDP.PCAP.PP.CD,VCT,St. Vincent and the Grenadines,Latin America & Caribbean ,Upper middle income,Blend
+152,2020,4243.7819360945,NY.GDP.PCAP.PP.CD,SDN,Sudan,Sub-Saharan Africa ,Low income,IDA
+153,2020,17015.9602788948,NY.GDP.PCAP.PP.CD,SUR,Suriname,Latin America & Caribbean ,Upper middle income,IBRD
+154,2020,54563.1214122072,NY.GDP.PCAP.PP.CD,SWE,Sweden,Europe & Central Asia,High income,Not classified
+155,2020,71352.3525990268,NY.GDP.PCAP.PP.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+156,2020,3858.4294154021,NY.GDP.PCAP.PP.CD,TJK,Tajikistan,Europe & Central Asia,Lower middle income,IDA
+157,2020,2780.0555482202,NY.GDP.PCAP.PP.CD,TZA,Tanzania,Sub-Saharan Africa ,Lower middle income,IDA
+158,2020,18236.1761111504,NY.GDP.PCAP.PP.CD,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+159,2020,3355.8295616012,NY.GDP.PCAP.PP.CD,TLS,Timor-Leste,East Asia & Pacific,Lower middle income,Blend
+160,2020,2223.6314906298,NY.GDP.PCAP.PP.CD,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+161,2020,25031.1921587721,NY.GDP.PCAP.PP.CD,TTO,Trinidad and Tobago,Latin America & Caribbean ,High income,IBRD
+162,2020,10261.6908447281,NY.GDP.PCAP.PP.CD,TUN,Tunisia,Middle East & North Africa,Lower middle income,IBRD
+163,2020,28119.4530398905,NY.GDP.PCAP.PP.CD,TUR,Turkey,Europe & Central Asia,Upper middle income,IBRD
+164,2020,22281.9221529183,NY.GDP.PCAP.PP.CD,TCA,Turks and Caicos Islands,Latin America & Caribbean ,High income,Not classified
+165,2020,4653.2336642971,NY.GDP.PCAP.PP.CD,TUV,Tuvalu,East Asia & Pacific,Upper middle income,IDA
+166,2020,2297.178684407,NY.GDP.PCAP.PP.CD,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+167,2020,13056.7020745176,NY.GDP.PCAP.PP.CD,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+168,2020,44916.2283385249,NY.GDP.PCAP.PP.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+169,2020,63543.577788724,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+170,2020,22795.0587500053,NY.GDP.PCAP.PP.CD,URY,Uruguay,Latin America & Caribbean ,High income,IBRD
+171,2020,7378.2547203592,NY.GDP.PCAP.PP.CD,UZB,Uzbekistan,Europe & Central Asia,Lower middle income,Blend
+172,2020,2914.5102731032,NY.GDP.PCAP.PP.CD,VUT,Vanuatu,East Asia & Pacific,Lower middle income,IDA
+173,2020,8650.6536723992,NY.GDP.PCAP.PP.CD,VNM,Vietnam,East Asia & Pacific,Lower middle income,IBRD
+174,2020,5690.2875170376,NY.GDP.PCAP.PP.CD,PSE,West Bank and Gaza,Middle East & North Africa,Lower middle income,Not classified
+175,2020,3449.6093221155,NY.GDP.PCAP.PP.CD,ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,IDA
+176,2020,2895.4156454758,NY.GDP.PCAP.PP.CD,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+177,2020,26.026,SP.URB.TOTL.IN.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+178,2020,62.112,SP.URB.TOTL.IN.ZS,ALB,Albania,Europe & Central Asia,Upper middle income,IBRD
+179,2020,73.733,SP.URB.TOTL.IN.ZS,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+180,2020,87.153,SP.URB.TOTL.IN.ZS,ASM,American Samoa,East Asia & Pacific,Upper middle income,Not classified
+181,2020,87.916,SP.URB.TOTL.IN.ZS,AND,Andorra,Europe & Central Asia,High income,Not classified
+182,2020,66.825,SP.URB.TOTL.IN.ZS,AGO,Angola,Sub-Saharan Africa ,Lower middle income,IBRD
+183,2020,24.433,SP.URB.TOTL.IN.ZS,ATG,Antigua and Barbuda,Latin America & Caribbean ,High income,IBRD
+184,2020,92.111,SP.URB.TOTL.IN.ZS,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+185,2020,63.313,SP.URB.TOTL.IN.ZS,ARM,Armenia,Europe & Central Asia,Upper middle income,IBRD
+186,2020,43.697,SP.URB.TOTL.IN.ZS,ABW,Aruba,Latin America & Caribbean ,High income,Not classified
+187,2020,86.241,SP.URB.TOTL.IN.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+188,2020,58.748,SP.URB.TOTL.IN.ZS,AUT,Austria,Europe & Central Asia,High income,Not classified
+189,2020,56.397,SP.URB.TOTL.IN.ZS,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+190,2020,83.245,SP.URB.TOTL.IN.ZS,BHS,"Bahamas, The",Latin America & Caribbean ,High income,Not classified
+191,2020,89.506,SP.URB.TOTL.IN.ZS,BHR,Bahrain,Middle East & North Africa,High income,Not classified
+192,2020,38.177,SP.URB.TOTL.IN.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+193,2020,31.191,SP.URB.TOTL.IN.ZS,BRB,Barbados,Latin America & Caribbean ,High income,Not classified
+194,2020,79.483,SP.URB.TOTL.IN.ZS,BLR,Belarus,Europe & Central Asia,Upper middle income,IBRD
+195,2020,98.079,SP.URB.TOTL.IN.ZS,BEL,Belgium,Europe & Central Asia,High income,Not classified
+196,2020,46.025,SP.URB.TOTL.IN.ZS,BLZ,Belize,Latin America & Caribbean ,Lower middle income,IBRD
+197,2020,48.415,SP.URB.TOTL.IN.ZS,BEN,Benin,Sub-Saharan Africa ,Lower middle income,IDA
+198,2020,100.0,SP.URB.TOTL.IN.ZS,BMU,Bermuda,North America,High income,Not classified
+199,2020,42.316,SP.URB.TOTL.IN.ZS,BTN,Bhutan,South Asia,Lower middle income,IDA
+200,2020,70.123,SP.URB.TOTL.IN.ZS,BOL,Bolivia,Latin America & Caribbean ,Lower middle income,IBRD
+201,2020,49.02,SP.URB.TOTL.IN.ZS,BIH,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,IBRD
+202,2020,70.877,SP.URB.TOTL.IN.ZS,BWA,Botswana,Sub-Saharan Africa ,Upper middle income,IBRD
+203,2020,87.073,SP.URB.TOTL.IN.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+204,2020,48.515,SP.URB.TOTL.IN.ZS,VGB,British Virgin Islands,Latin America & Caribbean ,High income,Not classified
+205,2020,78.25,SP.URB.TOTL.IN.ZS,BRN,Brunei Darussalam,East Asia & Pacific,High income,Not classified
+206,2020,75.686,SP.URB.TOTL.IN.ZS,BGR,Bulgaria,Europe & Central Asia,Upper middle income,IBRD
+207,2020,30.607,SP.URB.TOTL.IN.ZS,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+208,2020,13.708,SP.URB.TOTL.IN.ZS,BDI,Burundi,Sub-Saharan Africa ,Low income,IDA
+209,2020,66.652,SP.URB.TOTL.IN.ZS,CPV,Cabo Verde,Sub-Saharan Africa ,Lower middle income,Blend
+210,2020,24.232,SP.URB.TOTL.IN.ZS,KHM,Cambodia,East Asia & Pacific,Lower middle income,IDA
+211,2020,57.56,SP.URB.TOTL.IN.ZS,CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,Blend
+212,2020,81.562,SP.URB.TOTL.IN.ZS,CAN,Canada,North America,High income,Not classified
+213,2020,100.0,SP.URB.TOTL.IN.ZS,CYM,Cayman Islands,Latin America & Caribbean ,High income,Not classified
+214,2020,42.198,SP.URB.TOTL.IN.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+215,2020,23.52,SP.URB.TOTL.IN.ZS,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+216,2020,30.963,SP.URB.TOTL.IN.ZS,CHI,Channel Islands,Europe & Central Asia,High income,Not classified
+217,2020,87.727,SP.URB.TOTL.IN.ZS,CHL,Chile,Latin America & Caribbean ,High income,IBRD
+218,2020,61.428,SP.URB.TOTL.IN.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+219,2020,81.425,SP.URB.TOTL.IN.ZS,COL,Colombia,Latin America & Caribbean ,Upper middle income,IBRD
+220,2020,29.38,SP.URB.TOTL.IN.ZS,COM,Comoros,Sub-Saharan Africa ,Lower middle income,IDA
+221,2020,45.638,SP.URB.TOTL.IN.ZS,COD,"Congo, Dem. Rep.",Sub-Saharan Africa ,Low income,IDA
+222,2020,67.829,SP.URB.TOTL.IN.ZS,COG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income,Blend
+223,2020,80.771,SP.URB.TOTL.IN.ZS,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+224,2020,51.706,SP.URB.TOTL.IN.ZS,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+225,2020,57.553,SP.URB.TOTL.IN.ZS,HRV,Croatia,Europe & Central Asia,High income,IBRD
+226,2020,77.194,SP.URB.TOTL.IN.ZS,CUB,Cuba,Latin America & Caribbean ,Upper middle income,Not classified
+227,2020,89.062,SP.URB.TOTL.IN.ZS,CUW,Curacao,Latin America & Caribbean ,High income,Not classified
+228,2020,66.821,SP.URB.TOTL.IN.ZS,CYP,Cyprus,Europe & Central Asia,High income,Not classified
+229,2020,74.061,SP.URB.TOTL.IN.ZS,CZE,Czech Republic,Europe & Central Asia,High income,Not classified
+230,2020,88.116,SP.URB.TOTL.IN.ZS,DNK,Denmark,Europe & Central Asia,High income,Not classified
+231,2020,78.062,SP.URB.TOTL.IN.ZS,DJI,Djibouti,Middle East & North Africa,Lower middle income,IDA
+232,2020,71.09,SP.URB.TOTL.IN.ZS,DMA,Dominica,Latin America & Caribbean ,Upper middle income,Blend
+233,2020,82.54,SP.URB.TOTL.IN.ZS,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+234,2020,64.166,SP.URB.TOTL.IN.ZS,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+235,2020,42.783,SP.URB.TOTL.IN.ZS,EGY,"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income,IBRD
+236,2020,73.444,SP.URB.TOTL.IN.ZS,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+237,2020,73.1,SP.URB.TOTL.IN.ZS,GNQ,Equatorial Guinea,Sub-Saharan Africa ,Upper middle income,IBRD
+238,2020,69.229,SP.URB.TOTL.IN.ZS,EST,Estonia,Europe & Central Asia,High income,Not classified
+239,2020,24.171,SP.URB.TOTL.IN.ZS,SWZ,Eswatini,Sub-Saharan Africa ,Lower middle income,IBRD
+240,2020,21.695,SP.URB.TOTL.IN.ZS,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+241,2020,42.398,SP.URB.TOTL.IN.ZS,FRO,Faroe Islands,Europe & Central Asia,High income,Not classified
+242,2020,57.247,SP.URB.TOTL.IN.ZS,FJI,Fiji,East Asia & Pacific,Upper middle income,Blend
+243,2020,85.517,SP.URB.TOTL.IN.ZS,FIN,Finland,Europe & Central Asia,High income,Not classified
+244,2020,80.975,SP.URB.TOTL.IN.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+245,2020,61.975,SP.URB.TOTL.IN.ZS,PYF,French Polynesia,East Asia & Pacific,High income,Not classified
+246,2020,90.092,SP.URB.TOTL.IN.ZS,GAB,Gabon,Sub-Saharan Africa ,Upper middle income,IBRD
+247,2020,62.582,SP.URB.TOTL.IN.ZS,GMB,"Gambia, The",Sub-Saharan Africa ,Low income,IDA
+248,2020,59.453,SP.URB.TOTL.IN.ZS,GEO,Georgia,Europe & Central Asia,Upper middle income,IBRD
+249,2020,77.453,SP.URB.TOTL.IN.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+250,2020,57.349,SP.URB.TOTL.IN.ZS,GHA,Ghana,Sub-Saharan Africa ,Lower middle income,IDA
+251,2020,100.0,SP.URB.TOTL.IN.ZS,GIB,Gibraltar,Europe & Central Asia,High income,Not classified
+252,2020,79.715,SP.URB.TOTL.IN.ZS,GRC,Greece,Europe & Central Asia,High income,Not classified
+253,2020,87.282,SP.URB.TOTL.IN.ZS,GRL,Greenland,Europe & Central Asia,High income,Not classified
+254,2020,36.537,SP.URB.TOTL.IN.ZS,GRD,Grenada,Latin America & Caribbean ,Upper middle income,Blend
+255,2020,94.938,SP.URB.TOTL.IN.ZS,GUM,Guam,East Asia & Pacific,High income,Not classified
+256,2020,51.836,SP.URB.TOTL.IN.ZS,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+257,2020,36.875,SP.URB.TOTL.IN.ZS,GIN,Guinea,Sub-Saharan Africa ,Low income,IDA
+258,2020,44.196,SP.URB.TOTL.IN.ZS,GNB,Guinea-Bissau,Sub-Saharan Africa ,Low income,IDA
+259,2020,26.786,SP.URB.TOTL.IN.ZS,GUY,Guyana,Latin America & Caribbean ,Upper middle income,IDA
+260,2020,57.088,SP.URB.TOTL.IN.ZS,HTI,Haiti,Latin America & Caribbean ,Lower middle income,IDA
+261,2020,58.359,SP.URB.TOTL.IN.ZS,HND,Honduras,Latin America & Caribbean ,Lower middle income,IDA
+262,2020,100.0,SP.URB.TOTL.IN.ZS,HKG,"Hong Kong SAR, China",East Asia & Pacific,High income,Not classified
+263,2020,71.942,SP.URB.TOTL.IN.ZS,HUN,Hungary,Europe & Central Asia,High income,Not classified
+264,2020,93.898,SP.URB.TOTL.IN.ZS,ISL,Iceland,Europe & Central Asia,High income,Not classified
+265,2020,34.926,SP.URB.TOTL.IN.ZS,IND,India,South Asia,Lower middle income,IBRD
+266,2020,56.641,SP.URB.TOTL.IN.ZS,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+267,2020,75.874,SP.URB.TOTL.IN.ZS,IRN,"Iran, Islamic Rep.",Middle East & North Africa,Lower middle income,IBRD
+268,2020,70.893,SP.URB.TOTL.IN.ZS,IRQ,Iraq,Middle East & North Africa,Upper middle income,IBRD
+269,2020,63.653,SP.URB.TOTL.IN.ZS,IRL,Ireland,Europe & Central Asia,High income,Not classified
+270,2020,52.898,SP.URB.TOTL.IN.ZS,IMN,Isle of Man,Europe & Central Asia,High income,Not classified
+271,2020,92.587,SP.URB.TOTL.IN.ZS,ISR,Israel,Middle East & North Africa,High income,Not classified
+272,2020,71.039,SP.URB.TOTL.IN.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+273,2020,56.311,SP.URB.TOTL.IN.ZS,JAM,Jamaica,Latin America & Caribbean ,Upper middle income,IBRD
+274,2020,91.782,SP.URB.TOTL.IN.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+275,2020,91.418,SP.URB.TOTL.IN.ZS,JOR,Jordan,Middle East & North Africa,Upper middle income,IBRD
+276,2020,57.671,SP.URB.TOTL.IN.ZS,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+277,2020,27.995,SP.URB.TOTL.IN.ZS,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+278,2020,55.594,SP.URB.TOTL.IN.ZS,KIR,Kiribati,East Asia & Pacific,Lower middle income,IDA
+279,2020,62.381,SP.URB.TOTL.IN.ZS,PRK,"Korea, Dem. People's Rep.",East Asia & Pacific,Low income,Not classified
+280,2020,81.414,SP.URB.TOTL.IN.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+281,2020,100.0,SP.URB.TOTL.IN.ZS,KWT,Kuwait,Middle East & North Africa,High income,Not classified
+282,2020,36.856,SP.URB.TOTL.IN.ZS,KGZ,Kyrgyz Republic,Europe & Central Asia,Lower middle income,IDA
+283,2020,36.29,SP.URB.TOTL.IN.ZS,LAO,Lao PDR,East Asia & Pacific,Lower middle income,IDA
+284,2020,68.315,SP.URB.TOTL.IN.ZS,LVA,Latvia,Europe & Central Asia,High income,Not classified
+285,2020,88.925,SP.URB.TOTL.IN.ZS,LBN,Lebanon,Middle East & North Africa,Upper middle income,IBRD
+286,2020,29.028,SP.URB.TOTL.IN.ZS,LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,IDA
+287,2020,52.089,SP.URB.TOTL.IN.ZS,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+288,2020,80.691,SP.URB.TOTL.IN.ZS,LBY,Libya,Middle East & North Africa,Upper middle income,IBRD
+289,2020,14.416,SP.URB.TOTL.IN.ZS,LIE,Liechtenstein,Europe & Central Asia,High income,Not classified
+290,2020,68.046,SP.URB.TOTL.IN.ZS,LTU,Lithuania,Europe & Central Asia,High income,Not classified
+291,2020,91.453,SP.URB.TOTL.IN.ZS,LUX,Luxembourg,Europe & Central Asia,High income,Not classified
+292,2020,100.0,SP.URB.TOTL.IN.ZS,MAC,"Macao SAR, China",East Asia & Pacific,High income,Not classified
+293,2020,38.534,SP.URB.TOTL.IN.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+294,2020,17.427,SP.URB.TOTL.IN.ZS,MWI,Malawi,Sub-Saharan Africa ,Low income,IDA
+295,2020,77.16,SP.URB.TOTL.IN.ZS,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+296,2020,40.669,SP.URB.TOTL.IN.ZS,MDV,Maldives,South Asia,Upper middle income,IDA
+297,2020,43.909,SP.URB.TOTL.IN.ZS,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+298,2020,94.744,SP.URB.TOTL.IN.ZS,MLT,Malta,Middle East & North Africa,High income,Not classified
+299,2020,77.794,SP.URB.TOTL.IN.ZS,MHL,Marshall Islands,East Asia & Pacific,Upper middle income,IDA
+300,2020,55.327,SP.URB.TOTL.IN.ZS,MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,IDA
+301,2020,40.76,SP.URB.TOTL.IN.ZS,MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,IBRD
+302,2020,80.731,SP.URB.TOTL.IN.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+303,2020,22.933,SP.URB.TOTL.IN.ZS,FSM,"Micronesia, Fed. Sts.",East Asia & Pacific,Lower middle income,IDA
+304,2020,42.849,SP.URB.TOTL.IN.ZS,MDA,Moldova,Europe & Central Asia,Upper middle income,IBRD
+305,2020,100.0,SP.URB.TOTL.IN.ZS,MCO,Monaco,Europe & Central Asia,High income,Not classified
+306,2020,68.657,SP.URB.TOTL.IN.ZS,MNG,Mongolia,East Asia & Pacific,Lower middle income,IBRD
+307,2020,67.488,SP.URB.TOTL.IN.ZS,MNE,Montenegro,Europe & Central Asia,Upper middle income,IBRD
+308,2020,63.532,SP.URB.TOTL.IN.ZS,MAR,Morocco,Middle East & North Africa,Lower middle income,IBRD
+309,2020,37.074,SP.URB.TOTL.IN.ZS,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+310,2020,31.141,SP.URB.TOTL.IN.ZS,MMR,Myanmar,East Asia & Pacific,Lower middle income,IDA
+311,2020,52.033,SP.URB.TOTL.IN.ZS,NAM,Namibia,Sub-Saharan Africa ,Upper middle income,IBRD
+312,2020,100.0,SP.URB.TOTL.IN.ZS,NRU,Nauru,East Asia & Pacific,High income,IBRD
+313,2020,20.576,SP.URB.TOTL.IN.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+314,2020,92.236,SP.URB.TOTL.IN.ZS,NLD,Netherlands,Europe & Central Asia,High income,Not classified
+315,2020,71.518,SP.URB.TOTL.IN.ZS,NCL,New Caledonia,East Asia & Pacific,High income,Not classified
+316,2020,86.699,SP.URB.TOTL.IN.ZS,NZL,New Zealand,East Asia & Pacific,High income,Not classified
+317,2020,59.012,SP.URB.TOTL.IN.ZS,NIC,Nicaragua,Latin America & Caribbean ,Lower middle income,IDA
+318,2020,16.626,SP.URB.TOTL.IN.ZS,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+319,2020,51.958,SP.URB.TOTL.IN.ZS,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend
+320,2020,58.482,SP.URB.TOTL.IN.ZS,MKD,North Macedonia,Europe & Central Asia,Upper middle income,IBRD
+321,2020,91.798,SP.URB.TOTL.IN.ZS,MNP,Northern Mariana Islands,East Asia & Pacific,High income,Not classified
+322,2020,82.974,SP.URB.TOTL.IN.ZS,NOR,Norway,Europe & Central Asia,High income,Not classified
+323,2020,86.276,SP.URB.TOTL.IN.ZS,OMN,Oman,Middle East & North Africa,High income,Not classified
+324,2020,37.165,SP.URB.TOTL.IN.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+325,2020,80.988,SP.URB.TOTL.IN.ZS,PLW,Palau,East Asia & Pacific,High income,IBRD
+326,2020,68.414,SP.URB.TOTL.IN.ZS,PAN,Panama,Latin America & Caribbean ,Upper middle income,IBRD
+327,2020,13.345,SP.URB.TOTL.IN.ZS,PNG,Papua New Guinea,East Asia & Pacific,Lower middle income,Blend
+328,2020,62.183,SP.URB.TOTL.IN.ZS,PRY,Paraguay,Latin America & Caribbean ,Upper middle income,IBRD
+329,2020,78.297,SP.URB.TOTL.IN.ZS,PER,Peru,Latin America & Caribbean ,Upper middle income,IBRD
+330,2020,47.408,SP.URB.TOTL.IN.ZS,PHL,Philippines,East Asia & Pacific,Lower middle income,IBRD
+331,2020,60.043,SP.URB.TOTL.IN.ZS,POL,Poland,Europe & Central Asia,High income,IBRD
+332,2020,66.31,SP.URB.TOTL.IN.ZS,PRT,Portugal,Europe & Central Asia,High income,Not classified
+333,2020,93.581,SP.URB.TOTL.IN.ZS,PRI,Puerto Rico,Latin America & Caribbean ,High income,Not classified
+334,2020,99.235,SP.URB.TOTL.IN.ZS,QAT,Qatar,Middle East & North Africa,High income,Not classified
+335,2020,54.194,SP.URB.TOTL.IN.ZS,ROU,Romania,Europe & Central Asia,Upper middle income,IBRD
+336,2020,74.754,SP.URB.TOTL.IN.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+337,2020,17.432,SP.URB.TOTL.IN.ZS,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+338,2020,17.889,SP.URB.TOTL.IN.ZS,WSM,Samoa,East Asia & Pacific,Lower middle income,IDA
+339,2020,97.499,SP.URB.TOTL.IN.ZS,SMR,San Marino,Europe & Central Asia,High income,Not classified
+340,2020,74.354,SP.URB.TOTL.IN.ZS,STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,IDA
+341,2020,84.287,SP.URB.TOTL.IN.ZS,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+342,2020,48.122,SP.URB.TOTL.IN.ZS,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+343,2020,56.446,SP.URB.TOTL.IN.ZS,SRB,Serbia,Europe & Central Asia,Upper middle income,IBRD
+344,2020,57.546,SP.URB.TOTL.IN.ZS,SYC,Seychelles,Sub-Saharan Africa ,High income,IBRD
+345,2020,42.923,SP.URB.TOTL.IN.ZS,SLE,Sierra Leone,Sub-Saharan Africa ,Low income,IDA
+346,2020,100.0,SP.URB.TOTL.IN.ZS,SGP,Singapore,East Asia & Pacific,High income,Not classified
+347,2020,100.0,SP.URB.TOTL.IN.ZS,SXM,Sint Maarten (Dutch part),Latin America & Caribbean ,High income,Not classified
+348,2020,53.76,SP.URB.TOTL.IN.ZS,SVK,Slovak Republic,Europe & Central Asia,High income,Not classified
+349,2020,55.118,SP.URB.TOTL.IN.ZS,SVN,Slovenia,Europe & Central Asia,High income,Not classified
+350,2020,24.67,SP.URB.TOTL.IN.ZS,SLB,Solomon Islands,East Asia & Pacific,Lower middle income,IDA
+351,2020,46.141,SP.URB.TOTL.IN.ZS,SOM,Somalia,Sub-Saharan Africa ,Low income,IDA
+352,2020,67.354,SP.URB.TOTL.IN.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+353,2020,20.199,SP.URB.TOTL.IN.ZS,SSD,South Sudan,Sub-Saharan Africa ,Low income,IDA
+354,2020,80.81,SP.URB.TOTL.IN.ZS,ESP,Spain,Europe & Central Asia,High income,Not classified
+355,2020,18.713,SP.URB.TOTL.IN.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+356,2020,30.843,SP.URB.TOTL.IN.ZS,KNA,St. Kitts and Nevis,Latin America & Caribbean ,High income,IBRD
+357,2020,18.841,SP.URB.TOTL.IN.ZS,LCA,St. Lucia,Latin America & Caribbean ,Upper middle income,Blend
+358,2020,53.032,SP.URB.TOTL.IN.ZS,VCT,St. Vincent and the Grenadines,Latin America & Caribbean ,Upper middle income,Blend
+359,2020,35.253,SP.URB.TOTL.IN.ZS,SDN,Sudan,Sub-Saharan Africa ,Low income,IDA
+360,2020,66.149,SP.URB.TOTL.IN.ZS,SUR,Suriname,Latin America & Caribbean ,Upper middle income,IBRD
+361,2020,87.977,SP.URB.TOTL.IN.ZS,SWE,Sweden,Europe & Central Asia,High income,Not classified
+362,2020,73.915,SP.URB.TOTL.IN.ZS,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+363,2020,55.475,SP.URB.TOTL.IN.ZS,SYR,Syrian Arab Republic,Middle East & North Africa,Low income,IDA
+364,2020,27.506,SP.URB.TOTL.IN.ZS,TJK,Tajikistan,Europe & Central Asia,Lower middle income,IDA
+365,2020,35.227,SP.URB.TOTL.IN.ZS,TZA,Tanzania,Sub-Saharan Africa ,Lower middle income,IDA
+366,2020,51.43,SP.URB.TOTL.IN.ZS,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+367,2020,31.32,SP.URB.TOTL.IN.ZS,TLS,Timor-Leste,East Asia & Pacific,Lower middle income,Blend
+368,2020,42.8,SP.URB.TOTL.IN.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+369,2020,23.099,SP.URB.TOTL.IN.ZS,TON,Tonga,East Asia & Pacific,Upper middle income,IDA
+370,2020,53.214,SP.URB.TOTL.IN.ZS,TTO,Trinidad and Tobago,Latin America & Caribbean ,High income,IBRD
+371,2020,69.568,SP.URB.TOTL.IN.ZS,TUN,Tunisia,Middle East & North Africa,Lower middle income,IBRD
+372,2020,76.105,SP.URB.TOTL.IN.ZS,TUR,Turkey,Europe & Central Asia,Upper middle income,IBRD
+373,2020,52.516,SP.URB.TOTL.IN.ZS,TKM,Turkmenistan,Europe & Central Asia,Upper middle income,IBRD
+374,2020,93.605,SP.URB.TOTL.IN.ZS,TCA,Turks and Caicos Islands,Latin America & Caribbean ,High income,Not classified
+375,2020,64.014,SP.URB.TOTL.IN.ZS,TUV,Tuvalu,East Asia & Pacific,Upper middle income,IDA
+376,2020,24.954,SP.URB.TOTL.IN.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+377,2020,69.608,SP.URB.TOTL.IN.ZS,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+378,2020,87.048,SP.URB.TOTL.IN.ZS,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+379,2020,83.903,SP.URB.TOTL.IN.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+380,2020,82.664,SP.URB.TOTL.IN.ZS,USA,United States,North America,High income,Not classified
+381,2020,95.515,SP.URB.TOTL.IN.ZS,URY,Uruguay,Latin America & Caribbean ,High income,IBRD
+382,2020,50.416,SP.URB.TOTL.IN.ZS,UZB,Uzbekistan,Europe & Central Asia,Lower middle income,Blend
+383,2020,25.525,SP.URB.TOTL.IN.ZS,VUT,Vanuatu,East Asia & Pacific,Lower middle income,IDA
+384,2020,88.279,SP.URB.TOTL.IN.ZS,VEN,"Venezuela, RB",Latin America & Caribbean ,Not classified,IBRD
+385,2020,37.34,SP.URB.TOTL.IN.ZS,VNM,Vietnam,East Asia & Pacific,Lower middle income,IBRD
+386,2020,95.939,SP.URB.TOTL.IN.ZS,VIR,Virgin Islands (U.S.),Latin America & Caribbean ,High income,Not classified
+387,2020,76.719,SP.URB.TOTL.IN.ZS,PSE,West Bank and Gaza,Middle East & North Africa,Lower middle income,Not classified
+388,2020,37.908,SP.URB.TOTL.IN.ZS,YEM,"Yemen, Rep.",Middle East & North Africa,Low income,IDA
+389,2020,44.629,SP.URB.TOTL.IN.ZS,ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,IDA
+390,2020,32.242,SP.URB.TOTL.IN.ZS,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+391,2020,38928341.0,SP.POP.TOTL,AFG,Afghanistan,South Asia,Low income,IDA
+392,2020,2837743.0,SP.POP.TOTL,ALB,Albania,Europe & Central Asia,Upper middle income,IBRD
+393,2020,43851043.0,SP.POP.TOTL,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+394,2020,55197.0,SP.POP.TOTL,ASM,American Samoa,East Asia & Pacific,Upper middle income,Not classified
+395,2020,77265.0,SP.POP.TOTL,AND,Andorra,Europe & Central Asia,High income,Not classified
+396,2020,32866268.0,SP.POP.TOTL,AGO,Angola,Sub-Saharan Africa ,Lower middle income,IBRD
+397,2020,97928.0,SP.POP.TOTL,ATG,Antigua and Barbuda,Latin America & Caribbean ,High income,IBRD
+398,2020,45376763.0,SP.POP.TOTL,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+399,2020,2963234.0,SP.POP.TOTL,ARM,Armenia,Europe & Central Asia,Upper middle income,IBRD
+400,2020,106766.0,SP.POP.TOTL,ABW,Aruba,Latin America & Caribbean ,High income,Not classified
+401,2020,25687041.0,SP.POP.TOTL,AUS,Australia,East Asia & Pacific,High income,Not classified
+402,2020,8917205.0,SP.POP.TOTL,AUT,Austria,Europe & Central Asia,High income,Not classified
+403,2020,10110116.0,SP.POP.TOTL,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+404,2020,393248.0,SP.POP.TOTL,BHS,"Bahamas, The",Latin America & Caribbean ,High income,Not classified
+405,2020,1701583.0,SP.POP.TOTL,BHR,Bahrain,Middle East & North Africa,High income,Not classified
+406,2020,164689383.0,SP.POP.TOTL,BGD,Bangladesh,South Asia,Lower middle income,IDA
+407,2020,287371.0,SP.POP.TOTL,BRB,Barbados,Latin America & Caribbean ,High income,Not classified
+408,2020,9398861.0,SP.POP.TOTL,BLR,Belarus,Europe & Central Asia,Upper middle income,IBRD
+409,2020,11555997.0,SP.POP.TOTL,BEL,Belgium,Europe & Central Asia,High income,Not classified
+410,2020,397621.0,SP.POP.TOTL,BLZ,Belize,Latin America & Caribbean ,Lower middle income,IBRD
+411,2020,12123198.0,SP.POP.TOTL,BEN,Benin,Sub-Saharan Africa ,Lower middle income,IDA
+412,2020,63903.0,SP.POP.TOTL,BMU,Bermuda,North America,High income,Not classified
+413,2020,771612.0,SP.POP.TOTL,BTN,Bhutan,South Asia,Lower middle income,IDA
+414,2020,11673029.0,SP.POP.TOTL,BOL,Bolivia,Latin America & Caribbean ,Lower middle income,IBRD
+415,2020,3280815.0,SP.POP.TOTL,BIH,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,IBRD
+416,2020,2351625.0,SP.POP.TOTL,BWA,Botswana,Sub-Saharan Africa ,Upper middle income,IBRD
+417,2020,212559409.0,SP.POP.TOTL,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+418,2020,30237.0,SP.POP.TOTL,VGB,British Virgin Islands,Latin America & Caribbean ,High income,Not classified
+419,2020,437483.0,SP.POP.TOTL,BRN,Brunei Darussalam,East Asia & Pacific,High income,Not classified
+420,2020,6927288.0,SP.POP.TOTL,BGR,Bulgaria,Europe & Central Asia,Upper middle income,IBRD
+421,2020,20903278.0,SP.POP.TOTL,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+422,2020,11890781.0,SP.POP.TOTL,BDI,Burundi,Sub-Saharan Africa ,Low income,IDA
+423,2020,555988.0,SP.POP.TOTL,CPV,Cabo Verde,Sub-Saharan Africa ,Lower middle income,Blend
+424,2020,16718971.0,SP.POP.TOTL,KHM,Cambodia,East Asia & Pacific,Lower middle income,IDA
+425,2020,26545864.0,SP.POP.TOTL,CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,Blend
+426,2020,38005238.0,SP.POP.TOTL,CAN,Canada,North America,High income,Not classified
+427,2020,65720.0,SP.POP.TOTL,CYM,Cayman Islands,Latin America & Caribbean ,High income,Not classified
+428,2020,4829764.0,SP.POP.TOTL,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+429,2020,16425859.0,SP.POP.TOTL,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+430,2020,173859.0,SP.POP.TOTL,CHI,Channel Islands,Europe & Central Asia,High income,Not classified
+431,2020,19116209.0,SP.POP.TOTL,CHL,Chile,Latin America & Caribbean ,High income,IBRD
+432,2020,1402112000.0,SP.POP.TOTL,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+433,2020,50882884.0,SP.POP.TOTL,COL,Colombia,Latin America & Caribbean ,Upper middle income,IBRD
+434,2020,869595.0,SP.POP.TOTL,COM,Comoros,Sub-Saharan Africa ,Lower middle income,IDA
+435,2020,89561404.0,SP.POP.TOTL,COD,"Congo, Dem. Rep.",Sub-Saharan Africa ,Low income,IDA
+436,2020,5518092.0,SP.POP.TOTL,COG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income,Blend
+437,2020,5094114.0,SP.POP.TOTL,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+438,2020,26378275.0,SP.POP.TOTL,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+439,2020,4047200.0,SP.POP.TOTL,HRV,Croatia,Europe & Central Asia,High income,IBRD
+440,2020,11326616.0,SP.POP.TOTL,CUB,Cuba,Latin America & Caribbean ,Upper middle income,Not classified
+441,2020,155014.0,SP.POP.TOTL,CUW,Curacao,Latin America & Caribbean ,High income,Not classified
+442,2020,1207361.0,SP.POP.TOTL,CYP,Cyprus,Europe & Central Asia,High income,Not classified
+443,2020,10698896.0,SP.POP.TOTL,CZE,Czech Republic,Europe & Central Asia,High income,Not classified
+444,2020,5831404.0,SP.POP.TOTL,DNK,Denmark,Europe & Central Asia,High income,Not classified
+445,2020,988002.0,SP.POP.TOTL,DJI,Djibouti,Middle East & North Africa,Lower middle income,IDA
+446,2020,71991.0,SP.POP.TOTL,DMA,Dominica,Latin America & Caribbean ,Upper middle income,Blend
+447,2020,10847904.0,SP.POP.TOTL,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+448,2020,17643060.0,SP.POP.TOTL,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+449,2020,102334403.0,SP.POP.TOTL,EGY,"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income,IBRD
+450,2020,6486201.0,SP.POP.TOTL,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+451,2020,1402985.0,SP.POP.TOTL,GNQ,Equatorial Guinea,Sub-Saharan Africa ,Upper middle income,IBRD
+452,2020,1331057.0,SP.POP.TOTL,EST,Estonia,Europe & Central Asia,High income,Not classified
+453,2020,1160164.0,SP.POP.TOTL,SWZ,Eswatini,Sub-Saharan Africa ,Lower middle income,IBRD
+454,2020,114963583.0,SP.POP.TOTL,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+455,2020,48865.0,SP.POP.TOTL,FRO,Faroe Islands,Europe & Central Asia,High income,Not classified
+456,2020,896444.0,SP.POP.TOTL,FJI,Fiji,East Asia & Pacific,Upper middle income,Blend
+457,2020,5530719.0,SP.POP.TOTL,FIN,Finland,Europe & Central Asia,High income,Not classified
+458,2020,67391582.0,SP.POP.TOTL,FRA,France,Europe & Central Asia,High income,Not classified
+459,2020,280904.0,SP.POP.TOTL,PYF,French Polynesia,East Asia & Pacific,High income,Not classified
+460,2020,2225728.0,SP.POP.TOTL,GAB,Gabon,Sub-Saharan Africa ,Upper middle income,IBRD
+461,2020,2416664.0,SP.POP.TOTL,GMB,"Gambia, The",Sub-Saharan Africa ,Low income,IDA
+462,2020,3714000.0,SP.POP.TOTL,GEO,Georgia,Europe & Central Asia,Upper middle income,IBRD
+463,2020,83240525.0,SP.POP.TOTL,DEU,Germany,Europe & Central Asia,High income,Not classified
+464,2020,31072945.0,SP.POP.TOTL,GHA,Ghana,Sub-Saharan Africa ,Lower middle income,IDA
+465,2020,33691.0,SP.POP.TOTL,GIB,Gibraltar,Europe & Central Asia,High income,Not classified
+466,2020,10715549.0,SP.POP.TOTL,GRC,Greece,Europe & Central Asia,High income,Not classified
+467,2020,56367.0,SP.POP.TOTL,GRL,Greenland,Europe & Central Asia,High income,Not classified
+468,2020,112519.0,SP.POP.TOTL,GRD,Grenada,Latin America & Caribbean ,Upper middle income,Blend
+469,2020,168783.0,SP.POP.TOTL,GUM,Guam,East Asia & Pacific,High income,Not classified
+470,2020,16858333.0,SP.POP.TOTL,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+471,2020,13132792.0,SP.POP.TOTL,GIN,Guinea,Sub-Saharan Africa ,Low income,IDA
+472,2020,1967998.0,SP.POP.TOTL,GNB,Guinea-Bissau,Sub-Saharan Africa ,Low income,IDA
+473,2020,786559.0,SP.POP.TOTL,GUY,Guyana,Latin America & Caribbean ,Upper middle income,IDA
+474,2020,11402533.0,SP.POP.TOTL,HTI,Haiti,Latin America & Caribbean ,Lower middle income,IDA
+475,2020,9904608.0,SP.POP.TOTL,HND,Honduras,Latin America & Caribbean ,Lower middle income,IDA
+476,2020,7481800.0,SP.POP.TOTL,HKG,"Hong Kong SAR, China",East Asia & Pacific,High income,Not classified
+477,2020,9749763.0,SP.POP.TOTL,HUN,Hungary,Europe & Central Asia,High income,Not classified
+478,2020,366425.0,SP.POP.TOTL,ISL,Iceland,Europe & Central Asia,High income,Not classified
+479,2020,1380004385.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+480,2020,273523621.0,SP.POP.TOTL,IDN,Indonesia,East Asia & Pacific,Lower middle income,IBRD
+481,2020,83992953.0,SP.POP.TOTL,IRN,"Iran, Islamic Rep.",Middle East & North Africa,Lower middle income,IBRD
+482,2020,40222503.0,SP.POP.TOTL,IRQ,Iraq,Middle East & North Africa,Upper middle income,IBRD
+483,2020,4994724.0,SP.POP.TOTL,IRL,Ireland,Europe & Central Asia,High income,Not classified
+484,2020,85032.0,SP.POP.TOTL,IMN,Isle of Man,Europe & Central Asia,High income,Not classified
+485,2020,9216900.0,SP.POP.TOTL,ISR,Israel,Middle East & North Africa,High income,Not classified
+486,2020,59554023.0,SP.POP.TOTL,ITA,Italy,Europe & Central Asia,High income,Not classified
+487,2020,2961161.0,SP.POP.TOTL,JAM,Jamaica,Latin America & Caribbean ,Upper middle income,IBRD
+488,2020,125836021.0,SP.POP.TOTL,JPN,Japan,East Asia & Pacific,High income,Not classified
+489,2020,10203140.0,SP.POP.TOTL,JOR,Jordan,Middle East & North Africa,Upper middle income,IBRD
+490,2020,18754440.0,SP.POP.TOTL,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+491,2020,53771300.0,SP.POP.TOTL,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+492,2020,119446.0,SP.POP.TOTL,KIR,Kiribati,East Asia & Pacific,Lower middle income,IDA
+493,2020,25778815.0,SP.POP.TOTL,PRK,"Korea, Dem. People's Rep.",East Asia & Pacific,Low income,Not classified
+494,2020,51780579.0,SP.POP.TOTL,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+495,2020,1775378.0,SP.POP.TOTL,XKX,Kosovo,Europe & Central Asia,Upper middle income,IDA
+496,2020,4270563.0,SP.POP.TOTL,KWT,Kuwait,Middle East & North Africa,High income,Not classified
+497,2020,6591600.0,SP.POP.TOTL,KGZ,Kyrgyz Republic,Europe & Central Asia,Lower middle income,IDA
+498,2020,7275556.0,SP.POP.TOTL,LAO,Lao PDR,East Asia & Pacific,Lower middle income,IDA
+499,2020,1901548.0,SP.POP.TOTL,LVA,Latvia,Europe & Central Asia,High income,Not classified
+500,2020,6825442.0,SP.POP.TOTL,LBN,Lebanon,Middle East & North Africa,Upper middle income,IBRD
+501,2020,2142252.0,SP.POP.TOTL,LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,IDA
+502,2020,5057677.0,SP.POP.TOTL,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+503,2020,6871287.0,SP.POP.TOTL,LBY,Libya,Middle East & North Africa,Upper middle income,IBRD
+504,2020,38137.0,SP.POP.TOTL,LIE,Liechtenstein,Europe & Central Asia,High income,Not classified
+505,2020,2794700.0,SP.POP.TOTL,LTU,Lithuania,Europe & Central Asia,High income,Not classified
+506,2020,632275.0,SP.POP.TOTL,LUX,Luxembourg,Europe & Central Asia,High income,Not classified
+507,2020,649342.0,SP.POP.TOTL,MAC,"Macao SAR, China",East Asia & Pacific,High income,Not classified
+508,2020,27691019.0,SP.POP.TOTL,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+509,2020,19129955.0,SP.POP.TOTL,MWI,Malawi,Sub-Saharan Africa ,Low income,IDA
+510,2020,32365998.0,SP.POP.TOTL,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+511,2020,540542.0,SP.POP.TOTL,MDV,Maldives,South Asia,Upper middle income,IDA
+512,2020,20250834.0,SP.POP.TOTL,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+513,2020,525285.0,SP.POP.TOTL,MLT,Malta,Middle East & North Africa,High income,Not classified
+514,2020,59194.0,SP.POP.TOTL,MHL,Marshall Islands,East Asia & Pacific,Upper middle income,IDA
+515,2020,4649660.0,SP.POP.TOTL,MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,IDA
+516,2020,1265740.0,SP.POP.TOTL,MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,IBRD
+517,2020,128932753.0,SP.POP.TOTL,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+518,2020,115021.0,SP.POP.TOTL,FSM,"Micronesia, Fed. Sts.",East Asia & Pacific,Lower middle income,IDA
+519,2020,2617820.0,SP.POP.TOTL,MDA,Moldova,Europe & Central Asia,Upper middle income,IBRD
+520,2020,39244.0,SP.POP.TOTL,MCO,Monaco,Europe & Central Asia,High income,Not classified
+521,2020,3278292.0,SP.POP.TOTL,MNG,Mongolia,East Asia & Pacific,Lower middle income,IBRD
+522,2020,621718.0,SP.POP.TOTL,MNE,Montenegro,Europe & Central Asia,Upper middle income,IBRD
+523,2020,36910558.0,SP.POP.TOTL,MAR,Morocco,Middle East & North Africa,Lower middle income,IBRD
+524,2020,31255435.0,SP.POP.TOTL,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+525,2020,54409794.0,SP.POP.TOTL,MMR,Myanmar,East Asia & Pacific,Lower middle income,IDA
+526,2020,2540916.0,SP.POP.TOTL,NAM,Namibia,Sub-Saharan Africa ,Upper middle income,IBRD
+527,2020,10834.0,SP.POP.TOTL,NRU,Nauru,East Asia & Pacific,High income,IBRD
+528,2020,29136808.0,SP.POP.TOTL,NPL,Nepal,South Asia,Lower middle income,IDA
+529,2020,17441139.0,SP.POP.TOTL,NLD,Netherlands,Europe & Central Asia,High income,Not classified
+530,2020,271960.0,SP.POP.TOTL,NCL,New Caledonia,East Asia & Pacific,High income,Not classified
+531,2020,5084300.0,SP.POP.TOTL,NZL,New Zealand,East Asia & Pacific,High income,Not classified
+532,2020,6624554.0,SP.POP.TOTL,NIC,Nicaragua,Latin America & Caribbean ,Lower middle income,IDA
+533,2020,24206636.0,SP.POP.TOTL,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+534,2020,206139587.0,SP.POP.TOTL,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend
+535,2020,2083380.0,SP.POP.TOTL,MKD,North Macedonia,Europe & Central Asia,Upper middle income,IBRD
+536,2020,57557.0,SP.POP.TOTL,MNP,Northern Mariana Islands,East Asia & Pacific,High income,Not classified
+537,2020,5379475.0,SP.POP.TOTL,NOR,Norway,Europe & Central Asia,High income,Not classified
+538,2020,5106622.0,SP.POP.TOTL,OMN,Oman,Middle East & North Africa,High income,Not classified
+539,2020,220892331.0,SP.POP.TOTL,PAK,Pakistan,South Asia,Lower middle income,Blend
+540,2020,18092.0,SP.POP.TOTL,PLW,Palau,East Asia & Pacific,High income,IBRD
+541,2020,4314768.0,SP.POP.TOTL,PAN,Panama,Latin America & Caribbean ,Upper middle income,IBRD
+542,2020,8947027.0,SP.POP.TOTL,PNG,Papua New Guinea,East Asia & Pacific,Lower middle income,Blend
+543,2020,7132530.0,SP.POP.TOTL,PRY,Paraguay,Latin America & Caribbean ,Upper middle income,IBRD
+544,2020,32971846.0,SP.POP.TOTL,PER,Peru,Latin America & Caribbean ,Upper middle income,IBRD
+545,2020,109581085.0,SP.POP.TOTL,PHL,Philippines,East Asia & Pacific,Lower middle income,IBRD
+546,2020,37950802.0,SP.POP.TOTL,POL,Poland,Europe & Central Asia,High income,IBRD
+547,2020,10305564.0,SP.POP.TOTL,PRT,Portugal,Europe & Central Asia,High income,Not classified
+548,2020,3194034.0,SP.POP.TOTL,PRI,Puerto Rico,Latin America & Caribbean ,High income,Not classified
+549,2020,2881060.0,SP.POP.TOTL,QAT,Qatar,Middle East & North Africa,High income,Not classified
+550,2020,19286123.0,SP.POP.TOTL,ROU,Romania,Europe & Central Asia,Upper middle income,IBRD
+551,2020,144104080.0,SP.POP.TOTL,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+552,2020,12952209.0,SP.POP.TOTL,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+553,2020,198410.0,SP.POP.TOTL,WSM,Samoa,East Asia & Pacific,Lower middle income,IDA
+554,2020,33938.0,SP.POP.TOTL,SMR,San Marino,Europe & Central Asia,High income,Not classified
+555,2020,219161.0,SP.POP.TOTL,STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,IDA
+556,2020,34813867.0,SP.POP.TOTL,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+557,2020,16743930.0,SP.POP.TOTL,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+558,2020,6908224.0,SP.POP.TOTL,SRB,Serbia,Europe & Central Asia,Upper middle income,IBRD
+559,2020,98462.0,SP.POP.TOTL,SYC,Seychelles,Sub-Saharan Africa ,High income,IBRD
+560,2020,7976985.0,SP.POP.TOTL,SLE,Sierra Leone,Sub-Saharan Africa ,Low income,IDA
+561,2020,5685807.0,SP.POP.TOTL,SGP,Singapore,East Asia & Pacific,High income,Not classified
+562,2020,40812.0,SP.POP.TOTL,SXM,Sint Maarten (Dutch part),Latin America & Caribbean ,High income,Not classified
+563,2020,5458827.0,SP.POP.TOTL,SVK,Slovak Republic,Europe & Central Asia,High income,Not classified
+564,2020,2100126.0,SP.POP.TOTL,SVN,Slovenia,Europe & Central Asia,High income,Not classified
+565,2020,686878.0,SP.POP.TOTL,SLB,Solomon Islands,East Asia & Pacific,Lower middle income,IDA
+566,2020,15893219.0,SP.POP.TOTL,SOM,Somalia,Sub-Saharan Africa ,Low income,IDA
+567,2020,59308690.0,SP.POP.TOTL,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+568,2020,11193729.0,SP.POP.TOTL,SSD,South Sudan,Sub-Saharan Africa ,Low income,IDA
+569,2020,47351567.0,SP.POP.TOTL,ESP,Spain,Europe & Central Asia,High income,Not classified
+570,2020,21919000.0,SP.POP.TOTL,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+571,2020,53192.0,SP.POP.TOTL,KNA,St. Kitts and Nevis,Latin America & Caribbean ,High income,IBRD
+572,2020,183629.0,SP.POP.TOTL,LCA,St. Lucia,Latin America & Caribbean ,Upper middle income,Blend
+573,2020,38659.0,SP.POP.TOTL,MAF,St. Martin (French part),Latin America & Caribbean ,High income,Not classified
+574,2020,110947.0,SP.POP.TOTL,VCT,St. Vincent and the Grenadines,Latin America & Caribbean ,Upper middle income,Blend
+575,2020,43849269.0,SP.POP.TOTL,SDN,Sudan,Sub-Saharan Africa ,Low income,IDA
+576,2020,586634.0,SP.POP.TOTL,SUR,Suriname,Latin America & Caribbean ,Upper middle income,IBRD
+577,2020,10353442.0,SP.POP.TOTL,SWE,Sweden,Europe & Central Asia,High income,Not classified
+578,2020,8636896.0,SP.POP.TOTL,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+579,2020,17500657.0,SP.POP.TOTL,SYR,Syrian Arab Republic,Middle East & North Africa,Low income,IDA
+580,2020,9537642.0,SP.POP.TOTL,TJK,Tajikistan,Europe & Central Asia,Lower middle income,IDA
+581,2020,59734213.0,SP.POP.TOTL,TZA,Tanzania,Sub-Saharan Africa ,Lower middle income,IDA
+582,2020,69799978.0,SP.POP.TOTL,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+583,2020,1318442.0,SP.POP.TOTL,TLS,Timor-Leste,East Asia & Pacific,Lower middle income,Blend
+584,2020,8278737.0,SP.POP.TOTL,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+585,2020,105697.0,SP.POP.TOTL,TON,Tonga,East Asia & Pacific,Upper middle income,IDA
+586,2020,1399491.0,SP.POP.TOTL,TTO,Trinidad and Tobago,Latin America & Caribbean ,High income,IBRD
+587,2020,11818618.0,SP.POP.TOTL,TUN,Tunisia,Middle East & North Africa,Lower middle income,IBRD
+588,2020,84339067.0,SP.POP.TOTL,TUR,Turkey,Europe & Central Asia,Upper middle income,IBRD
+589,2020,6031187.0,SP.POP.TOTL,TKM,Turkmenistan,Europe & Central Asia,Upper middle income,IBRD
+590,2020,38718.0,SP.POP.TOTL,TCA,Turks and Caicos Islands,Latin America & Caribbean ,High income,Not classified
+591,2020,11792.0,SP.POP.TOTL,TUV,Tuvalu,East Asia & Pacific,Upper middle income,IDA
+592,2020,45741000.0,SP.POP.TOTL,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+593,2020,44134693.0,SP.POP.TOTL,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+594,2020,9890400.0,SP.POP.TOTL,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+595,2020,67215293.0,SP.POP.TOTL,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+596,2020,329484123.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+597,2020,3473727.0,SP.POP.TOTL,URY,Uruguay,Latin America & Caribbean ,High income,IBRD
+598,2020,34232050.0,SP.POP.TOTL,UZB,Uzbekistan,Europe & Central Asia,Lower middle income,Blend
+599,2020,307150.0,SP.POP.TOTL,VUT,Vanuatu,East Asia & Pacific,Lower middle income,IDA
+600,2020,28435943.0,SP.POP.TOTL,VEN,"Venezuela, RB",Latin America & Caribbean ,Not classified,IBRD
+601,2020,97338583.0,SP.POP.TOTL,VNM,Vietnam,East Asia & Pacific,Lower middle income,IBRD
+602,2020,106290.0,SP.POP.TOTL,VIR,Virgin Islands (U.S.),Latin America & Caribbean ,High income,Not classified
+603,2020,4803269.0,SP.POP.TOTL,PSE,West Bank and Gaza,Middle East & North Africa,Lower middle income,Not classified
+604,2020,29825968.0,SP.POP.TOTL,YEM,"Yemen, Rep.",Middle East & North Africa,Low income,IDA
+605,2020,18383956.0,SP.POP.TOTL,ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,IDA
+606,2020,14862927.0,SP.POP.TOTL,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
