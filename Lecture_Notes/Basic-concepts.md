@@ -18,3 +18,7 @@ Libraries that supports Interactive visualization:
 
 3. Useful Technologies to learn
  - [Django](https://www.djangoproject.com)
+
+
+4. Python virtual environment
+ - python -m venv testenv
