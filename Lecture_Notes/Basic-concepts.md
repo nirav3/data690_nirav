@@ -13,3 +13,8 @@ Libraries that support static visualizations:
 
 Libraries that supports Interactive visualization:
   - Plotly 
+
+
+
+3. Useful Technologies to learn
+ - [Django](https://www.djangoproject.com)
